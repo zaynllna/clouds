@@ -3,7 +3,7 @@ a {
   text-decoration: none;
 }
 p {
-  font-family: 'koliko';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 1.563vw;
@@ -100,7 +100,7 @@ input {
   line-height: 3vw;
   color: black;
   text-decoration: none;
-  font-family: 'koliko';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 2.188vw;
@@ -119,7 +119,7 @@ input {
   width: 35.99vw;
   height: 5.208vw;
 
-  font-family: 'koliko';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 2.188vw;
@@ -385,7 +385,7 @@ input {
   left: 43.854vw;
   top: 45vw;
 
-  font-family: 'koliko';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 2.188vw;
@@ -400,7 +400,7 @@ input {
   left: 41.198vw;
   top: 48.333vw;
 
-  font-family: 'koliko-regular';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 1.667vw;
@@ -457,7 +457,7 @@ hr {
   top: 2.552vw;
 }
 .pi1 {
-  font-family: 'koliko';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 2.188vw;
@@ -481,7 +481,7 @@ hr {
   left: 18.49vw;
   top: 22.396vw;
 
-  font-family: 'koliko';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 1.563vw;
@@ -499,7 +499,7 @@ hr {
   height: 12.292vw;
   left: 18.49vw;
   top: 24.271vw;
-  font-family: 'koliko';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 2.188vw;
@@ -517,7 +517,7 @@ hr {
   height: 9.219vw;
   left: 18.49vw;
   top: 38.958vw;
-  font-family: 'koliko';
+  font-family: 'kolikoRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 2.188vw;
