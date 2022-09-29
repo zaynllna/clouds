@@ -20,11 +20,34 @@ h1 {
   color: #49acf3;
 }
 body {
-  overflow: hidden;
+
 }
 input {
   outline: none;
   border: none;
+}
+.pr1{
+  position: absolute;
+  width: 40.417vw;
+  height: 33.073vw;
+  left: 28.229vw;
+  top: 67.240vw;
+}
+.pr2{
+  position: absolute;
+  width: 50.625vw;
+  height: 26.823vw;
+  left: 28.229vw;
+  top: 107.552vw;
+
+}
+.pr3{
+  position: absolute;
+  width: 50.052vw;
+  height: 21.823vw;
+  left: 28.229vw;
+  top: 147.500vw;
+
 }
 .posters {
   justify-content: space-between;
@@ -549,4 +572,29 @@ hr {
   height: 37.604vw;
   left: 60.573vw;
   top: 16.198vw;
+}
+.more1{
+  position: absolute;
+width: 18.438vw;
+height: 4.375vw;
+left: 60.417vw;
+top: 69.688vw;
+
+}
+.more2{
+  position: absolute;
+width: 18.438vw;
+height: 4.375vw;
+left: 60.417vw;
+top: 113.490vw;
+
+
+}
+.more3{
+  position: absolute;
+width: 18.438vw;
+height: 4.375vw;
+left: 60.417vw;
+top: 151.875vw;
+
 }
